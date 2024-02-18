@@ -16,28 +16,11 @@ Welcome to my GitHub profile! I'm a results-driven Lead Software Engineer with e
   
 ## 🛠️ Tech Stack
 
-- Languages: JavaScript, TypeScript, HTML/CSS, SQL
+- Languages: JavaScript, ECMAScript (ES6/ES7), TypeScript, HTML/CSS, SQL
 - Frameworks: Node.js, Express.js, React.js, Nest.js
-- Databases: MySQL, PostgreSQL, MongoDB
-- Developer Tools: Git, GitHub, Docker, VS Code
-
-
-## 🛠️ Tech Stack
-
-### Languages
-JavaScript, ECMAScript (ES6/ES7), TypeScript, HTML/CSS, SQL
-
-### Frameworks
-Express.js (Node.js), Nest.js, Next.js, JEST
-
-### Databases
-MySQL, SQL Server, PostgreSQL, MongoDB
-
-### Developer Tools
-Git, GitHub, Bitbucket, Jira, Notion, Docker, Postman, VS Code, Sublime, Trello
-
-### Libraries
-React.js, AntDesign, Material UI, chart.js, Tailwind, Bootstrap, Redux, RTK, Survey Builder, ChatGPT Integration, Multer, yup, Formik, Valtio, jQuery, Axios, Stripe Integration, MS Teams, OAuth, Microsoft OAuth, SSO
+- Databases: MySQL, SQL Server, PostgreSQL, MongoDB
+- Developer Tools: Git, GitHub, Bitbucket, Jira, Notion, Docker, Postman, VS Code, Sublime, Trello
+- Libaraies: React.js, AntDesign, Material UI, chart.js, Tailwind, Bootstrap, Redux, RTK, Survey Builder, ChatGPT Integration, Multer, yup, Formik, Valtio, jQuery, Axios, Stripe Integration, MS Teams, OAuth, Microsoft OAuth, SSO
 
 ## 🌟 Experience
 
@@ -80,7 +63,3 @@ React.js, AntDesign, Material UI, chart.js, Tailwind, Bootstrap, Redux, RTK, Sur
 
 - Developed user dashboards with specific roles and functionalities for a medical-centered project based in Australia.
 - Implemented React.js and Tailwind CSS for the project’s dashboards, ensuring a seamless and user-friendly experience.
-
-## 🌐 Connect with Me
-
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/aqib-hussain-turi) and explore my [GitHub repositories](https://github.com/AqibTuri). Let's collaborate and build amazing things together!
