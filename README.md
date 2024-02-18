@@ -2,11 +2,25 @@
 
 Welcome to my GitHub profile! I'm a results-driven Lead Software Engineer with expertise in the MERN Stack. Passionate about crafting innovative solutions, I excel in building scalable and efficient applications using cutting-edge technologies.
 
-## 🚀 About Me
+## 🚀 What I Do
 
-- 🎓 Bachelor of Science in Software Engineering from Sukkur IBA University
-- 💼 Currently working as a Tech Lead Software Engineer at Status 200 Pvt Ltd., Lahore, Pakistan
-- 🌐 [LinkedIn](https://linkedin.com/in/aqib-hussain-turi) | [GitHub](https://github.com/AqibTuri)
+- 💻 Tech Lead Software Engineer at Status 200 Pvt Ltd., Lahore, Pakistan
+- 🌐 Specializing in FullStack web development with Node.js, Express.js, ReactJS, and more
+- 🌟 Experienced in building and leading cross-functional teams for successful project delivery
+- 🌈 Always exploring and implementing cutting-edge technologies to stay ahead in the tech landscape
+
+## 🌐 Connect With Me
+
+- 📧 Email: aqib.turi.work@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/aqib-hussain-turi)
+  
+## 🛠️ Tech Stack
+
+- Languages: JavaScript, TypeScript, HTML/CSS, SQL
+- Frameworks: Node.js, Express.js, React.js, Nest.js
+- Databases: MySQL, PostgreSQL, MongoDB
+- Developer Tools: Git, GitHub, Docker, VS Code
+
 
 ## 🛠️ Tech Stack
 
@@ -66,29 +80,6 @@ React.js, AntDesign, Material UI, chart.js, Tailwind, Bootstrap, Redux, RTK, Sur
 
 - Developed user dashboards with specific roles and functionalities for a medical-centered project based in Australia.
 - Implemented React.js and Tailwind CSS for the project’s dashboards, ensuring a seamless and user-friendly experience.
-
-### CDG-RealState(centerlinedg.com) | React.js, MapBox, Nest.js, MongoDB, Firebase
-
-- Spearheaded a US-based Real Estate project offering a comprehensive platform for individuals to explore properties.
-- Employed cutting-edge technologies including MapBox, React.js, Nest.js, MongoDB, and Firebase.
-
-### QLU2.0 UI Library | React.tsx, TypeScript, ES6, SaaS, Figma Design Conversion
-
-- Developed a UI Library npm package that consists of all the UI Components used in QLU.ai Products.
-
-### QMail Web APP | Next.js, React.js, TypeScript, ES6, SaaS, Node.js, Express.js, PostgreSQL
-
-- Developed a full-stack web application using Node.js and Express.js to serve a REST API.
-- Implemented Next.js, React.js, and Saas for the frontend.
-
-### SIBAU Website | Nest.js, Next.js, TypeScript, ES6, Material UI, Node.js, PostgreSQL
-
-- Developed a full-stack web application using Node.js and Nest.js to serve a REST API.
-- Utilized Next.js and Tailwind for the frontend.
-
-### Development OF QuestionBank | React.js, Tailwind, ES6, Node.js, Express.js, MySQL
-
-- Developed a web-based application for Recruitment Test Centers that stores and maintains questions.
 
 ## 🌐 Connect with Me
 
