@@ -25,28 +25,17 @@ Welcome to my GitHub profile! I'm a results-driven Lead Software Engineer with e
 ## 🌟 Experience
 
 ### Tech Lead Software Engineer
-**Status 200 Pvt Ltd.** - Lahore, Pakistan _(Sept 2023 – Present)_
+**Status 200 Pvt Ltd.** - Lahore, Pakistan _(Sept 2021 – Present)_
 
 - Developed FullStack web applications using a variety of technologies including Node.js, Express.js, NestJS, Docker, PostgreSQL, MongoDB, ReactJS, NextJS, and more.
 - Utilized AWS, IONS, Vercel, Netlify, Heroku for hosting services.
 - Collaborated with cross-functional teams, ensuring the delivery of high-quality software solutions.
 
 ### Full Stack Software Engineer
-**QLU.AI** - Islamabad, Pakistan _(March 2023 – Sept 2023)_
+**QLU.AI** - Islamabad, Pakistan _(March 2020 – Sept 2021)_
 
 - Contributed to the development of full-stack web applications using Node.js, Express.js, Nest.js, Docker, PostgreSQL, and Git.
 - Specialized in building extensions using React.js, Next.js, Tailwind, SaaS, and Material-UI.
-
-### Full Stack Software Engineer Intern
-**Sukkur IBA ICT Department** - Sukkur, Sindh _(Dec 2022 – March 2023)_
-
-- Proficient in developing full-stack web applications using Node.js, Express.js, Nest.js, Docker, PostgreSQL, and Git.
-- Collaborated closely with internal stakeholders to gather and comprehend functional and technical requirements.
-
-### MERN Stack Software Engineer Trainee
-**SkipQ** - Sukkur, Sindh _(June 2022 – Dec 2022)_
-
-- Hands-on practice in developing full-stack web applications using Node.js, Express.js, Sequelize, MySQL, MongoDB, AWS, and Git.
 
 ## 🔨 Recent Projects
 
