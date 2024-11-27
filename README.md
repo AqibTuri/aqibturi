@@ -1,54 +1,62 @@
 # Hi there! 👋 I'm Aqib Hussain
 
-Welcome to my GitHub profile! I'm a results-driven Lead Software Engineer with expertise in the MERN Stack. Passionate about crafting innovative solutions, I excel in building scalable and efficient applications using cutting-edge technologies.
+Welcome to my GitHub profile! I'm a passionate and results-driven Lead Software Engineer specializing in the MERN Stack. I thrive on crafting innovative and scalable solutions while embracing cutting-edge technologies to deliver impactful software.
 
 ## 🚀 What I Do
 
-- 💻 Tech Lead Software Engineer at Status 200 Pvt Ltd., Lahore, Pakistan
-- 🌐 Specializing in FullStack web development with Node.js, Express.js, ReactJS, and more
-- 🌟 Experienced in building and leading cross-functional teams for successful project delivery
-- 🌈 Always exploring and implementing cutting-edge technologies to stay ahead in the tech landscape
+- 💻 **Lead Software Engineer** at Antematter.IO, Islamabad, Pakistan
+- 🌐 Specializing in Full Stack web development using technologies like Node.js, Express.js, ReactJS, Next.js, and more
+- 🤖 Exploring the integration of AI, robotics, and automation in modern development
+- 🌟 Mentoring and guiding cross-functional teams for successful project delivery
 
 ## 🌐 Connect With Me
 
 - 📧 Email: aqib.turi.work@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/aqib-hussain-turi)
-  
+- 💻 [Portfolio](https://github.com/AqibTuri)
+
 ## 🛠️ Tech Stack
 
-- Languages: JavaScript, ECMAScript (ES6/ES7), TypeScript, HTML/CSS, SQL
-- Frameworks: Node.js, Express.js, React.js, Nest.js
-- Databases: MySQL, SQL Server, PostgreSQL, MongoDB
-- Developer Tools: Git, GitHub, Bitbucket, Jira, Notion, Docker, Postman, VS Code, Sublime, Trello
-- Libaraies: React.js, AntDesign, Material UI, chart.js, Tailwind, Bootstrap, Redux, RTK, Survey Builder, ChatGPT Integration, Multer, yup, Formik, Valtio, jQuery, Axios, Stripe Integration, MS Teams, OAuth, Microsoft OAuth, SSO
+- **Languages:** JavaScript, ECMAScript (ES6/ES7), TypeScript, Python, HTML/CSS, SQL
+- **Frameworks:** Node.js, Express.js, React.js, Nest.js, Next.js
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Developer Tools:** Docker, Git, Bitbucket, Jira, Notion, Postman, Vercel, Heroku, Amplify
+- **Libraries:** Tailwind, Redux, Material-UI, RTK, Axios, Stripe Integration, Puppeteer, Sequelize, TypeORM
 
 ## 🌟 Experience
 
-### Tech Lead Software Engineer
-**Status 200 Pvt Ltd.** - Lahore, Pakistan _(Sept 2023 – Present)_
+### Lead Software Engineer
+**Antematter.IO** - Islamabad, Pakistan _(Aug 2024 – Present)_
 
-- Developed FullStack web applications using a variety of technologies including Node.js, Express.js, NestJS, Docker, PostgreSQL, MongoDB, ReactJS, NextJS, and more.
-- Utilized AWS, IONS, Vercel, Netlify, Heroku for hosting services.
-- Collaborated with cross-functional teams, ensuring the delivery of high-quality software solutions.
+- Developed and maintained full-stack web applications using Node.js, Express.js, NestJS, Sequelize, and ReactJS.
+- Leveraged cloud platforms like AWS, Google Cloud, and Amplify for deployment and hosting.
+- Conducted data scraping and automation using Puppeteer and BrightData.
+- Collaborated with stakeholders to define technical requirements and align project goals.
+
+### Tech Lead Software Engineer
+**Status 200 Pvt Ltd.** - Lahore, Pakistan _(Aug 2023 – Aug 2024)_
+
+- Spearheaded the development of scalable web solutions using modern technologies.
+- Delivered high-quality software projects, ensuring alignment with agile methodologies.
 
 ### Full Stack Software Engineer
-**QLU.AI** - Islamabad, Pakistan _(March 2023 – Sept 2023)_
+**QLU.AI** - Islamabad, Pakistan _(Jan 2023 – Aug 2023)_
 
-- Contributed to the development of full-stack web applications using Node.js, Express.js, Nest.js, Docker, PostgreSQL, and Git.
-- Specialized in building extensions using React.js, Next.js, Tailwind, SaaS, and Material-UI.
+- Built feature-rich applications using a mix of frontend and backend technologies.
+- Integrated APIs and enhanced user experience with modern UI libraries.
 
 ## 🔨 Recent Projects
 
-### Standardized Coding Templates Development | React.js, RTK, Nest.js, Express.js, MongoDB, Firebase, Swagger
+### Centerline Design Group | React.js, RTK, Nest.js, Swagger
+- Developed property management software with 3D views of houses for real estate.
+- Integrated Redux Toolkit for state management and ensured responsive designs.
 
-- Spearheaded the development of standardized coding templates within the organization.
-- Established React.js templates with optimal folder structure, integrating Redux Toolkit (RTK) for efficient global state management.
+### Baker’s Bot | React.js, MongoDB, Stripe, SendGrid, AWS
+- Created a FIFA snipe bot Chrome extension with admin panels and payment integration.
+- Deployed services on AWS and utilized MongoDB for data management.
 
-### Web Scrappy | React.js, Node.js, Express.js, Puppeteer, BrightData, MongoDB
+### EnableLifeCare PWA | React.js, Node.js, MongoDB
+- Built medical dashboards with custom roles and ChatGPT integration for an Australian client.
+- Utilized Tailwind CSS and React.js for user-friendly interfaces.
 
-- Developed individualized scrapper bots for over 45 websites, designed to operate as efficient crawlers.
-
-### EnableLifeCare PWA | React.js, Node.js, Express.js, MongoDB, ChatGPT Integration
-
-- Developed user dashboards with specific roles and functionalities for a medical-centered project based in Australia.
-- Implemented React.js and Tailwind CSS for the project’s dashboards, ensuring a seamless and user-friendly experience.
+---
