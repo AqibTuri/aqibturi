@@ -9,6 +9,13 @@ Welcome to my GitHub profile! I'm a passionate and results-driven Lead Software 
 - 🤖 Exploring the integration of AI, robotics, and automation in modern development
 - 🌟 Mentoring and guiding cross-functional teams for successful project delivery
 
+## 🎓 Passion for Computer Vision  
+
+I am deeply interested in the field of Computer Vision, with a focus on exploring its applications in AI-driven solutions. From developing scalable Vision-Language Models (VLMs) to enhancing robotic manipulation and multimodal understanding, I aim to contribute to advancing this transformative technology.  
+
+With a solid foundation in software engineering and experience in deep learning frameworks such as PyTorch and TensorFlow, I am keen to further my knowledge and collaborate on innovative projects. My aspiration is to work on challenges that bridge the gap between visual perception and intelligent decision-making, making a meaningful impact in the domain of AI and robotics.  
+
+
 ## 🌐 Connect With Me
 
 - 📧 Email: aqib.turi.work@gmail.com
