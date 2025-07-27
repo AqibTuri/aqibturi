@@ -25,7 +25,7 @@ I continuously strive to improve software delivery workflows and mentor junior d
 
 - 📧 Email: aqib.turi.work@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/aqib-hussain-turi)  
-- 💻 [Portfolio](https://github.com/AqibTuri)
+- 💻 [Portfolio](https://aqib-portfolio-sigma.vercel.app/)
 
 ---
 
