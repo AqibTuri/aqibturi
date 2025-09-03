@@ -1,81 +1,93 @@
 # 👋 Hi there! I'm Aqib Hussain
 
-Welcome to my GitHub profile! I'm a passionate and results-driven **Backend Engineer and Team Lead** with a focus on building scalable, secure, and efficient backend systems. I specialize in Node.js, TypeScript, NestJS, and cloud infrastructure, and enjoy solving complex engineering challenges in production-grade systems.
+Welcome to my GitHub profile! I'm a passionate and results-driven **Full Stack Software Engineer** with a strong focus on building scalable, secure, and user-friendly web applications. I specialize in **Node.js, TypeScript, NestJS, and React.js** while leveraging modern cloud infrastructure and state management solutions.
 
 ---
 
 ## 🚀 What I Do
 
-- 💻 **Backend Engineer & Team Lead** at Antematter.IO, Islamabad, Pakistan  
-- ⚙️ Specializing in designing microservices, APIs, and distributed systems using Node.js, NestJS, and Express.js  
-- ☁️ Experienced with cloud platforms like AWS and GCP for scalable deployments  
-- 🛠️ Focused on backend security, CI/CD, database design, and API optimization  
+- 💻 **Full Stack Software Engineer** at Antematter.IO, Islamabad, Pakistan  
+- ⚙️ Architecting and developing **microservices, APIs, and distributed systems** using Node.js, NestJS, and Express.js  
+- 🎨 Building **modern, responsive UIs** with React.js, Next.js, Redux Toolkit, React Query, Zustand, and SWR  
+- ☁️ Experienced with **AWS, Firebase, Vercel, Netlify** for scalable deployments  
+- 🛠️ Strong focus on **backend security, CI/CD, database design, and API optimization**  
 
 ---
 
-## 🎯 Passion for Scalable Systems
+## 🎯 Passion for Engineering
 
-I'm deeply passionate about backend architecture, cloud-native applications, and optimizing performance across distributed systems. My expertise spans REST API design, event-driven systems, NoSQL/SQL data modeling, and infrastructure-as-code with a strong emphasis on maintainability and system resilience.
+I'm deeply passionate about **scalable backend architecture** and **user-centric frontend applications**.  
+My expertise spans:
 
-I continuously strive to improve software delivery workflows and mentor junior developers to drive engineering excellence. My goal is to contribute to systems that are performant, reliable, and aligned with business goals.
+- REST & GraphQL API design  
+- Event-driven systems  
+- NoSQL/SQL data modeling  
+- Real-time apps with WebSockets/SSE  
+- Global store management & product onboarding flows (UserPilot, custom tour guides)  
+
+I also enjoy **mentoring junior developers** and continuously improving engineering workflows to deliver reliable and impactful software.
 
 ---
 
 ## 🌐 Connect With Me
 
-- 📧 Email: aqib.turi.work@gmail.com  
+- 📧 Email: aqib.fullstack@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/aqib-hussain-turi)  
-- 💻 [Portfolio](https://aqib-portfolio-sigma.vercel.app/)
+- 💻 [Portfolio](https://aqib-portfolio-sigma.vercel.app/)  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, TypeScript, Python, SQL, HTML/CSS  
-- **Backend Frameworks:** Node.js, NestJS, Express.js  
-- **Databases:** PostgreSQL, MySQL, MongoDB, Firebase  
-- **Cloud & DevOps:** AWS (EC2, S3, Lambda, CloudWatch), GCP, Amplify, Docker, Git, CI/CD  
-- **Tools & Services:** Postman, Bitbucket, Jira, Notion, Puppeteer, Stripe, SendGrid  
-- **ORMs & Libraries:** Sequelize, TypeORM, Redis, Axios  
+- **Languages:** JavaScript (ES6+), TypeScript, Java, C#, C++  
+- **Frontend:** React.js, Next.js, Redux Toolkit (RTK), React Query, TanStack, Zustand, SWR, Ant Design, Material UI, Tailwind CSS, Bootstrap  
+- **Backend:** Node.js, NestJS, Express.js, REST APIs, GraphQL, WebSockets, JWT/Auth  
+- **Databases:** MongoDB, PostgreSQL, MySQL, Firebase  
+- **Cloud & DevOps:** AWS (Lambda, S3, Amplify, CloudWatch), Firebase (FCM, Firestore), Vercel, Netlify, Docker, Serverless, CI/CD Pipelines  
+- **Integrations & Tools:** Stripe, PayPal, Clerk, Keycloak, CAPTCHA, KYC/KYB, SendGrid, Geo APIs, Email Templating, Notification Systems, UserPilot, Custom Tour Guides  
+- **Others:** Git, GitHub, Bitbucket, Jira, Postman, Jest, Puppeteer, CRON Jobs, Queues  
 
 ---
 
 ## 🌟 Experience
 
-### Backend Engineer & Team Lead  
+### Full Stack Software Engineer  
 **Antematter.IO** – Islamabad, Pakistan _(Aug 2024 – Present)_
 
-- Designed and implemented microservices powering AI-driven platforms using Node.js and NestJS  
-- Architected secure, RESTful APIs and integrated MongoDB, Firebase, and PostgreSQL  
-- Led CI/CD pipelines, implemented backend security best practices, and managed deployments on AWS and GCP  
-- Collaborated with product teams and mentored junior engineers on best practices  
+- Designed and implemented **microservices powering AI-driven platforms** using Node.js and NestJS  
+- Built **frontend dashboards** with Next.js, Redux Toolkit, and React Query  
+- Architected secure APIs and integrated **MongoDB, Firebase, and PostgreSQL**  
+- Led CI/CD pipelines, implemented backend security best practices, and deployed on AWS  
+- Collaborated with product teams and mentored junior engineers  
 
 ### Tech Lead Software Engineer  
 **Status 200 Pvt Ltd.** – Lahore, Pakistan _(Aug 2023 – Aug 2024)_
 
-- Oversaw backend architecture and project delivery in a fast-paced agile environment  
+- Oversaw backend architecture and full project delivery in a fast-paced agile environment  
 - Delivered scalable server-side applications and managed integrations with third-party APIs  
+- Introduced **state management patterns and React UI enhancements** for SaaS platforms  
 
 ### Full Stack Software Engineer  
-**QLU.AI** – Islamabad, Pakistan _(Jan 2023 – Aug 2023)_
+**QLU.AI** – Islamabad, Pakistan _(July 2022 – Aug 2023)_
 
 - Built and maintained backend systems using Express.js and Node.js  
-- Contributed to both frontend and backend logic in production SaaS platforms  
+- Contributed to both **frontend and backend logic** in production SaaS platforms  
 
 ---
 
 ## 🔨 Recent Projects
 
 ### Centerline Design Group | Nest.js, Swagger, PostgreSQL, RTK  
-- Developed backend services for a property management platform with secure APIs and Swagger documentation  
-- Integrated PostgreSQL and structured backend logic for 3D real estate viewing applications  
+- Developed backend services for a property management platform with secure APIs and Swagger docs  
+- Built frontend features with **React.js + Redux Toolkit** for 3D real estate viewing applications  
 
 ### Baker’s Bot | Node.js, MongoDB, Stripe, AWS  
-- Created a backend for a FIFA sniping Chrome extension with admin dashboard and payment gateway  
+- Created backend for a FIFA sniping Chrome extension with admin dashboard & Stripe payments  
 - Managed MongoDB collections, webhook handling, and cloud deployment on AWS  
 
-### EnableLifeCare PWA | Node.js, MongoDB, Firebase  
-- Developed backend for a medical platform with role-based access, custom dashboards, and chat integrations  
-- Utilized Firebase functions and MongoDB to manage patient and caregiver data  
+### EnableLifeCare PWA | Node.js, MongoDB, Firebase, Next.js  
+- Developed backend for a medical platform with role-based access & chat integrations  
+- Built **responsive PWA frontend** with Next.js, Zustand, and Firebase  
+- Implemented **custom onboarding tours** for user guidance  
 
 ---
