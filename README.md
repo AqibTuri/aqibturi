@@ -52,23 +52,17 @@ I also enjoy **mentoring junior developers** and continuously improving engineer
 ## 🌟 Experience
 
 ### Full Stack Software Engineer  
-**Antematter.IO** – Islamabad, Pakistan _(Aug 2024 – Present)_
+**Antematter.IO** – Islamabad, Pakistan _(Jul 2023 – Present)_
 
 - Designed and implemented **microservices powering AI-driven platforms** using Node.js and NestJS  
 - Built **frontend dashboards** with Next.js, Redux Toolkit, and React Query  
 - Architected secure APIs and integrated **MongoDB, Firebase, and PostgreSQL**  
 - Led CI/CD pipelines, implemented backend security best practices, and deployed on AWS  
 - Collaborated with product teams and mentored junior engineers  
-
-### Tech Lead Software Engineer  
-**Status 200 Pvt Ltd.** – Lahore, Pakistan _(Aug 2023 – Aug 2024)_
-
-- Oversaw backend architecture and full project delivery in a fast-paced agile environment  
-- Delivered scalable server-side applications and managed integrations with third-party APIs  
-- Introduced **state management patterns and React UI enhancements** for SaaS platforms  
+  
 
 ### Full Stack Software Engineer  
-**QLU.AI** – Islamabad, Pakistan _(July 2022 – Aug 2023)_
+**QLU.AI** – Islamabad, Pakistan _(sep 2021 – June 2023)_
 
 - Built and maintained backend systems using Express.js and Node.js  
 - Contributed to both **frontend and backend logic** in production SaaS platforms  
