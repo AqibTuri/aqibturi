@@ -1,87 +1,143 @@
-# 👋 Hi there! I'm Aqib Hussain
+# 👋 Hi, I'm Aqib Hussain
 
-Welcome to my GitHub profile! I'm a passionate and results-driven **Full Stack Software Engineer** with a strong focus on building scalable, secure, and user-friendly web applications. I specialize in **Node.js, TypeScript, NestJS, and React.js** while leveraging modern cloud infrastructure and state management solutions.
+I’m a **Senior Full Stack Software Engineer** with 4+ years of experience designing and delivering **scalable, high-performance web applications**. My core expertise lies in building **robust backend systems** and **intuitive frontend experiences** using modern JavaScript and cloud-native technologies.
+
+I specialize in **Node.js, TypeScript, NestJS, and React**, with a strong emphasis on **system design, performance optimization, and production-grade architecture**.
 
 ---
 
 ## 🚀 What I Do
 
-- 💻 **Full Stack Software Engineer** at Antematter.IO, Islamabad, Pakistan  
-- ⚙️ Architecting and developing **microservices, APIs, and distributed systems** using Node.js, NestJS, and Express.js  
-- 🎨 Building **modern, responsive UIs** with React.js, Next.js, Redux Toolkit, React Query, Zustand, and SWR  
-- ☁️ Experienced with **AWS, Firebase, Vercel, Netlify** for scalable deployments  
-- 🛠️ Strong focus on **backend security, CI/CD, database design, and API optimization**  
+- 🧠 Engineer and scale **distributed systems, microservices, and APIs**  
+- ⚙️ Build **high-performance backend services** with Node.js, NestJS, and Express  
+- 🎯 Develop **modern, responsive UIs** using React.js, Next.js, and advanced state management  
+- ☁️ Architect and deploy **cloud-native applications** on AWS, Firebase, Vercel, and Docker  
+- 🔐 Implement **secure, resilient systems** with authentication, authorization, and observability  
 
 ---
 
-## 🎯 Passion for Engineering
+## 🧩 Engineering Focus
 
-I'm deeply passionate about **scalable backend architecture** and **user-centric frontend applications**.  
-My expertise spans:
+I approach engineering with a strong focus on **scalability, maintainability, and developer experience**.
 
-- REST & GraphQL API design  
-- Event-driven systems  
-- NoSQL/SQL data modeling  
-- Real-time apps with WebSockets/SSE  
-- Global store management & product onboarding flows (UserPilot, custom tour guides)  
-
-I also enjoy **mentoring junior developers** and continuously improving engineering workflows to deliver reliable and impactful software.
+- API Design (REST & GraphQL)  
+- Event-driven & asynchronous architectures  
+- Scalable data modeling (SQL & NoSQL)  
+- Real-time systems (WebSockets, SSE)  
+- CI/CD pipelines and DevOps practices  
+- Product onboarding systems & user experience flows  
 
 ---
 
-## 🌐 Connect With Me
+## 🌟 Professional Experience
 
-- 📧 Email: aqib.fullstack.engineer@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/aqib-hussain-turi)  
-- 💻 [Portfolio](https://aqib-portfolio-sigma.vercel.app/)  
+### **Senior / Lead Full Stack Engineer**  
+**Antematter.io** — Islamabad _(Aug 2024 – Present)_
+
+- Architecting and scaling **AI-driven platforms** using microservices  
+- Designing **secure, high-throughput APIs** with NestJS and Node.js  
+- Leading frontend development with Next.js, RTK, and React Query  
+- Driving **CI/CD, observability, and AWS deployments**  
+- Mentoring engineers and influencing system design decisions  
+
+---
+
+### **Lead Software Engineer**  
+**Status200** — Lahore _(Aug 2023 – Jul 2024)_
+
+- Delivered scalable backend systems for SaaS platforms  
+- Contributed across the stack, improving performance and reliability  
+- Collaborated closely with product teams to ship features end-to-end  
+
+---
+
+### **Full Stack Software Engineer**  
+**QLU.AI** — Islamabad _(Jul 2022 – Aug 2023)_
+
+- Built and maintained backend services and APIs  
+- Developed full-stack features for production applications  
+
+---
+
+## 🔨 Key Projects
+
+### 🐎 Stablestakes (Production Platform)
+*A real-money horse racing analytics & contest platform*
+
+- Designed **scalable backend architecture** for contest management and real-time data  
+- Implemented **multi-currency payments (Stripe)** and wallet systems  
+- Built **data pipelines for racing analytics and performance tracking**  
+- Developed onboarding systems, notifications, and engagement flows  
+
+---
+
+### 🌍 PinXGlobal
+*A global-facing scalable platform*
+
+- Architected **secure and scalable APIs** for international users exchange for solona support tokens  
+- Built frontend with **Next.js and modern state management**  
+- Focused on **performance optimization and seamless UX**  
+
+---
+
+### 🏠 Centerline Design Group  
+- Built backend for a **property management platform**  
+- Delivered frontend features for **3D real estate visualization**  
+- Stack: NestJS, PostgreSQL, React, Redux Toolkit  
+
+---
+
+### 🤖 Baker’s Bot  
+- Developed backend for a **high-frequency trading bot**  
+- Integrated **Stripe payments, AWS infrastructure, real-time processing**  
+- Built admin panel and automation workflows  
+
+---
+
+### 🏥 EnableLifeCare PWA  
+- Developed **role-based medical platform backend**  
+- Built responsive PWA with Next.js and Firebase  
+- Implemented **real-time chat and onboarding systems**  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript (ES6+), TypeScript, Java, GO, C#, C++  
-- **Frontend:** React.js, Next.js, Redux Toolkit (RTK), React Query, TanStack, Zustand, SWR, Ant Design, Material UI, Tailwind CSS, Bootstrap  
-- **Backend:** Node.js, NestJS, Express.js, REST APIs, GraphQL, WebSockets, JWT/Auth  
-- **Databases:** MongoDB, PostgreSQL, MySQL, Firebase  
-- **Cloud & DevOps:** AWS (Lambda, S3, Amplify, CloudWatch), Firebase (FCM, Firestore), Vercel, Netlify, Docker, Serverless, CI/CD Pipelines  
-- **Integrations & Tools:** Stripe, PayPal, Clerk, Keycloak, CAPTCHA, KYC/KYB, SendGrid, Geo APIs, Email Templating, Notification Systems, UserPilot, Custom Tour Guides  
-- **Others:** Git, GitHub, Bitbucket, Jira, Postman, Jest, Puppeteer, CRON Jobs, Queues  
+**Languages:**  
+JavaScript (ES6+), TypeScript, Go, Java, C#, C++  
+
+**Frontend:**  
+React.js, Next.js, Redux Toolkit, React Query, Zustand, SWR, Tailwind CSS, MUI, Ant Design  
+
+**Backend:**  
+Node.js, NestJS, Express.js, REST APIs, GraphQL, WebSockets  
+
+**Databases:**  
+MongoDB, PostgreSQL, MySQL, Firebase  
+
+**Cloud & DevOps:**  
+AWS (Lambda, S3, CloudWatch), Docker, Serverless, CI/CD, Vercel, Netlify  
+
+**Tools & Integrations:**  
+Stripe, PayPal, Keycloak, Clerk, SendGrid, KYC/KYB, Geo APIs, Puppeteer, Queues, CRON Jobs  
 
 ---
 
-## 🌟 Experience
+## 🎯 Engineering Philosophy
 
-### Full Stack Software Engineer  
-**Antematter.IO** – Islamabad, Pakistan _(Jul 2023 – Present)_
+I focus on building systems that are:
 
-- Designed and implemented **microservices powering AI-driven platforms** using Node.js and NestJS  
-- Built **frontend dashboards** with Next.js, Redux Toolkit, and React Query  
-- Architected secure APIs and integrated **MongoDB, Firebase, and PostgreSQL**  
-- Led CI/CD pipelines, implemented backend security best practices, and deployed on AWS  
-- Collaborated with product teams and mentored junior engineers  
-  
+- **Scalable by design**  
+- **Secure by default**  
+- **Maintainable for teams**  
+- **Optimized for performance**  
 
-### Full Stack Software Engineer  
-**QLU.AI** – Islamabad, Pakistan _(sep 2021 – June 2023)_
-
-- Built and maintained backend systems using Express.js and Node.js  
-- Contributed to both **frontend and backend logic** in production SaaS platforms  
+I also actively contribute to improving **developer workflows, code quality, and team velocity**.
 
 ---
 
-## 🔨 Recent Projects
+## 🌐 Connect
 
-### Centerline Design Group | Nest.js, Swagger, PostgreSQL, RTK  
-- Developed backend services for a property management platform with secure APIs and Swagger docs  
-- Built frontend features with **React.js + Redux Toolkit** for 3D real estate viewing applications  
-
-### Baker’s Bot | Node.js, MongoDB, Stripe, AWS  
-- Created backend for a FIFA sniping Chrome extension with admin dashboard & Stripe payments  
-- Managed MongoDB collections, webhook handling, and cloud deployment on AWS  
-
-### EnableLifeCare PWA | Node.js, MongoDB, Firebase, Next.js  
-- Developed backend for a medical platform with role-based access & chat integrations  
-- Built **responsive PWA frontend** with Next.js, Zustand, and Firebase  
-- Implemented **custom onboarding tours** for user guidance  
-
----
+- 📧 aqib.fullstack.engineer@gmail.com  
+- 💼 https://linkedin.com/in/aqib-hussain-turi  
+- 🌍 https://aqib-portfolio-sigma.vercel.app/  
