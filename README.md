@@ -31,7 +31,7 @@ I also enjoy **mentoring junior developers** and continuously improving engineer
 
 ## 🌐 Connect With Me
 
-- 📧 Email: aqib.fullstack@gmail.com  
+- 📧 Email: aqib.fullstack.engineer@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/aqib-hussain-turi)  
 - 💻 [Portfolio](https://aqib-portfolio-sigma.vercel.app/)  
 
@@ -39,7 +39,7 @@ I also enjoy **mentoring junior developers** and continuously improving engineer
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript (ES6+), TypeScript, Java, C#, C++  
+- **Languages:** JavaScript (ES6+), TypeScript, Java, GO, C#, C++  
 - **Frontend:** React.js, Next.js, Redux Toolkit (RTK), React Query, TanStack, Zustand, SWR, Ant Design, Material UI, Tailwind CSS, Bootstrap  
 - **Backend:** Node.js, NestJS, Express.js, REST APIs, GraphQL, WebSockets, JWT/Auth  
 - **Databases:** MongoDB, PostgreSQL, MySQL, Firebase  
