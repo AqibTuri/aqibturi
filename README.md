@@ -34,39 +34,86 @@ Building scalable, enterprise-grade systems for clients across **Pakistan, the U
 
 ## 🌟 Professional Experience
 
-### Senior Software Engineer — Antematter.io *(Aug 2024 – Present)*
+### Core Team Lead — Antematter *(Aug 2024 – Present)*  
 `Islamabad, Pakistan`
 
-- Architected and delivered **5+ enterprise applications** using Node.js, NestJS, and React.js for US, Canadian, and European clients with full end-to-end ownership
-- Designed high-concurrency REST and WebSocket APIs; **reduced production defects 70%** via automated Jest CI/CD pipelines covering unit, integration, and E2E layers
-- Optimised PostgreSQL and MongoDB via composite indexing, execution plan analysis, and Redis caching — achieving **sub-100ms response times** under sustained load
-- Implemented **event-driven microservices** (Redis pub/sub + Socket.io) for real-time data synchronisation across distributed services
-- Integrated Stripe, InovoPay, Brex, OAuth 2.0, KYC/RADAR, and Equibase APIs into multiple production platforms
-- Mentored **5–8 engineers** via structured code reviews, architectural guidance, and best-practice workshops
+- Architecting and leading end-to-end delivery across frontend, backend, QA, and design for scalable production systems  
+- Driving high-availability architectures and performance-focused engineering practices across multiple products  
+- Optimising development workflows, reducing bottlenecks, and improving overall team velocity  
+- Translating business requirements into robust technical solutions aligned with product goals  
+- Mentoring engineers and enforcing best practices in system design, code quality, and deployment pipelines  
 
 ---
 
-### Tech Lead – Software Engineer — Status200 *(Aug 2023 – Aug 2024)*
+### Team Lead — Antematter *(Nov 2024 – Aug 2025)*  
+`Islamabad, Pakistan`
+
+- Managed and scaled a team of **10+ engineers**, improving sprint efficiency and delivery timelines  
+- Delivered multiple production-grade applications with strong focus on scalability and maintainability  
+- Reduced technical debt through modular architecture and reusable design patterns  
+- Led code reviews and enforced engineering standards across projects  
+
+---
+
+### Full Stack Engineer — Antematter *(Aug 2024 – Nov 2024)*  
+`Islamabad, Pakistan`
+
+- Engineered full-stack features using **MERN stack** for scalable and dynamic applications  
+- Built and integrated RESTful APIs ensuring seamless frontend-backend communication  
+- Optimised backend logic and database queries for improved system performance  
+
+---
+
+### Tech Lead Software Engineer — Status 200 Pvt Ltd. *(Jan 2024 – Aug 2024)*  
 `Lahore, Pakistan`
 
-- Led backend architecture for scalable **multi-tenant SaaS enterprise systems** built with NestJS and Express.js
-- Designed JWT + RBAC with refresh token rotation and row-level multi-tenant data isolation
-- Improved throughput **40%+** via Redis caching and DB read replicas; reduced API latency **35%** through N+1 elimination and ORM query refactoring
-- Engineered **BullMQ background queues** for async report generation, email dispatch, and scheduled data sync
-- Established Dockerized CI/CD pipelines (GitHub Actions) enabling zero-downtime production deployments
-- Led and mentored a backend squad of **4–6 engineers**
+- Led architectural design and development of scalable **cloud-based systems**  
+- Implemented **AWS Lambda serverless solutions**, improving efficiency and cost optimisation  
+- Delivered high-performance applications with strong focus on reliability and maintainability  
+- Collaborated with stakeholders to define technical roadmaps and system architecture  
 
 ---
 
-### Software Engineer — QLU.AI *(Jul 2022 – Aug 2023)*
+### Full Stack Software Engineer — Status 200 Pvt Ltd. *(Aug 2023 – Dec 2023)*  
+`Lahore, Pakistan`
+
+- Developed and maintained full-stack applications using modern JavaScript frameworks  
+- Built scalable APIs and integrated frontend interfaces for high-performance systems  
+- Improved system responsiveness and reduced latency via backend optimisation  
+
+---
+
+### Full Stack Engineer — QLU.ai *(Apr 2023 – Aug 2023)*  
 `Islamabad, Pakistan`
 
-- Developed full-stack features using React.js, NestJS, Python, PostgreSQL, and MongoDB in Agile sprint teams
-- Implemented secure auth flows — JWT, bcrypt, OAuth 2.0 social login, and token invalidation — for production SaaS platforms
-- Delivered sprint-committed features with comprehensive test coverage across product, design, and QA teams
+- Developed full-stack features for **AI-driven applications** with focus on scalability and performance  
+- Built and integrated RESTful APIs with modern frontend frameworks  
+- Improved application performance through efficient data handling and query optimisation  
+- Collaborated with cross-functional teams to deliver production-ready solutions  
 
 ---
 
+### Full Stack Developer — ICT Department, Sukkur IBA *(Jan 2023 – Apr 2023)*  
+`Sukkur, Pakistan`
+
+- Architected and built an **internal ERP system** using Next.js, NestJS, React, and PostgreSQL  
+- Designed scalable backend services and optimised API performance  
+- Containerised applications using Docker for consistent environments and deployments  
+- Improved system performance via query optimisation and caching strategies  
+- Collaborated with stakeholders to deliver production-ready features  
+
+---
+
+### Full Stack Engineer (Intern) — SkipQ *(Jul 2022 – Dec 2022)*  
+`Remote`
+
+- Contributed to internal ERP system development using Next.js, NestJS, and PostgreSQL  
+- Built responsive UI components with React.js, improving usability and performance  
+- Developed RESTful APIs supporting core ERP modules  
+- Assisted in database schema design and query optimisation  
+- Used Docker for containerised development and environment consistency  
+
+---
 ## 🔨 Key Projects
 
 ### 🧰 [GinKit](https://github.com/AqibTuri/GinKit) — Production Go + Gin Backend Template
@@ -191,7 +238,7 @@ Focus: Software Engineering · Sytem Design ·  Algorithms · Database Systems �
 
 - HackerRank Problem Solving — **Advanced**
 - LeetCode — **Advanced**
-- Full Stack Development Certification — 2022
+- Full Stack Development Certification SkipQ — 2022
 
 ---
 
