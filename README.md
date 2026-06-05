@@ -1,7 +1,7 @@
 # Hi there, I'm Aqib Hussain 👋
 
 **Senior Full Stack Engineer** · 4+ years · Node.js • NestJS • React.js • Next.js • TypeScript • PostgreSQL • AWS  
-Building scalable, enterprise-grade systems for clients across **Pakistan, the US, Canada, and Europe** · Open Source Contributor
+Building scalable, enterprise-grade systems for clients across **Pakistan, the US, Canada, and Europe**
 
 ---
 
@@ -199,37 +199,9 @@ A production-ready **Java Spring Boot** backend template currently under active 
 
 ---
 
-## 🐍 Open Source Contributions
-
-I actively contribute to Python open source in the **ML tooling** and **MCP (Model Context Protocol)** ecosystems.
-
----
-
-### [`sktime/sktime-mcp`](https://github.com/sktime/sktime-mcp) — MCP Server for Time Series ML
-
-**sktime-mcp** exposes sktime's time series capabilities to LLM agents via the Model Context Protocol.
-
-**Bug fix — `evaluate_estimator_tool` cv_folds enforcement** · `[BUG]`
-
-The `cv_folds` parameter was silently ignored — `ExpandingWindowSplitter(step_length=1)` produced more folds than requested, causing the bundled test to fail on a clean install (`assert 4 == 2`). Fixed by capping results via `results.head(cv_folds)` and added a parametrized regression test covering `cv_folds ∈ {1, 2, 3, 5}`.
-
-> `Python` · `MCP SDK` · `sktime` · `pytest`
-
-### [`sktime/sktime`](https://github.com/sktime/sktime) — Time Series Machine Learning
-
-The leading Python library for time series analysis and machine learning.
-
-**New feature — `SoftEDF1Score` detection metric** · `[ENH]`
-
-Implemented the **SoftED F1 score** (Salles et al., 2024 — *Computers & Industrial Engineering*) as a new detection metric under `sktime.performance_metrics.detection`. Supports linear and rectangular soft-membership functions with a configurable tolerance window, rewarding near-miss event detections proportionally rather than a hard binary match. Full `get_test_params` for the sktime test framework, 7 explicit unit tests, and a worked doctest.
-
-> `Python` · `NumPy` · `pandas` · `sktime` · `time series` · `event detection`
-
----
-
 ## 🎓 Education
 
-**Bachelor of Computer Science** — Sukkur IBA University, Sindh, Pakistan *(Feb 2019 – Feb 2023)*  
+**Bachelor of Computer Science** — Sukkur IBA University, Sindh, Pakistan *(Feb 2019 – May 2023)*  
 Focus: Software Engineering · Sytem Design ·  Algorithms · Database Systems · Web Technologies
 
 ---
@@ -237,7 +209,6 @@ Focus: Software Engineering · Sytem Design ·  Algorithms · Database Systems �
 ## 🏅 Certifications
 
 - HackerRank Problem Solving — **Advanced**
-- LeetCode — **Advanced**
 - Full Stack Development Certification SkipQ — 2022
 
 ---
